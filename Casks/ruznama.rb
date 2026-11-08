@@ -7,7 +7,7 @@ cask "ruznama" do
   desc "Daily journal for to-dos that carries what's left to the next day"
   homepage "https://ruznama.app/"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Ruznama.app"
 
