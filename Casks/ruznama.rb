@@ -1,6 +1,6 @@
 cask "ruznama" do
-  version "0.2"
-  sha256 "d9c9b2b7bf9cb19537105395db6278fcce7821285c1267fc54c82df92822834d"
+  version "0.3"
+  sha256 "09a0f724f90ccd4d87e477fd6396b5999fc3cba7dbf9a90ab10a51ce62a39ee9"
 
   url "https://github.com/omareletr/homebrew-tap/releases/download/v#{version}/Ruznama.dmg"
   name "Ruznama"
