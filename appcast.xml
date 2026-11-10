@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Ruznama</title>
+    <link>https://ruznama.app/</link>
+    <item>
+      <title>Version 0.2</title>
+      <pubDate>Tue, 10 Nov 2026 02:09:14 GMT</pubDate>
+      <sparkle:version>258</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Updates itself from now on. New: pick a date from a calendar or type one (&quot;fri&quot;, &quot;in 2 weeks&quot;), a section suggested for each Inbox task, Settings in five places, prayer reminders before each time runs out, and faster typing. The app now counts how often it&#x27;s used, never what you write; turn that off in Settings ▸ Rūznāma ▸ Share usage.</p>]]></description>
+      <enclosure url="https://github.com/omareletr/homebrew-tap/releases/download/v0.2/Ruznama.dmg" type="application/octet-stream" sparkle:edSignature="9iyJidwxrzhC9JbLEqmrKPrclLua2hg2UCe4WrMerPWtJTvcifSCnZx1FGb9tSC4sDM7L5psSVPumPtbV0CKBg==" length="13305451"/>
+    </item>
+  </channel>
+</rss>
